@@ -18,4 +18,4 @@
 
 <br>
 
-### For more DevOps and Kubernetes Events feel free to checkout [Kube Events](https://kube.events/) and [DevOps Days](https://devopsdays.org/)
+## For more DevOps and Kubernetes Events feel free to checkout [Kube Events](https://kube.events/) and [DevOps Days](https://devopsdays.org/)
