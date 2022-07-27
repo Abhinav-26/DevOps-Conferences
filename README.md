@@ -15,4 +15,7 @@
 |       Conf42: DevSecOps 2022       |     Dec. 1, 2022    |                            [CFP](https://www.papercall.io/conf42-devsecops-2022)                           |   Oct. 29, 05:29 AM   |        N/A        |                                                 Virtual                                                |
 |      DevOps Enterprise Summit      |  Oct. 18-20, 2022   |                                                     N/A                                                    |          N/A          |       $1,920      |                     [Venue - Las Vegas](https://events.itrevolution.com/lasvegas/)                     |
 | DevOps Enterprise Summit (Virtual) |    Dec. 6-8, 2022   |                                                     N/A                                                    |          N/A          |        $450       |                                                 Virtual                                                |
-|                                    |                     |                                                                                                            |                       |                   |                                                                                                        |
+
+<br>
+
+### For more DevOps and Kubernetes Events feel free to checkout [Kube Events](https://kube.events/) and [DevOps Days](https://devopsdays.org/)
