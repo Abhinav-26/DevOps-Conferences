@@ -14,6 +14,8 @@
 |       Conf42: DevSecOps 2022       |     Dec. 1, 2022    |                            [CFP](https://www.papercall.io/conf42-devsecops-2022)                           |   Oct. 29, 05:29 AM   |        N/A        |                                                 Virtual                                                |
 |      DevOps Enterprise Summit      |  Oct. 18-20, 2022   |                                                     N/A                                                    |          N/A          |       $1,920      |                     [Venue - Las Vegas](https://events.itrevolution.com/lasvegas/)                     |
 | DevOps Enterprise Summit (Virtual) |    Dec. 6-8, 2022   |                                                     N/A                                                    |          N/A          |        $450       |                                                 Virtual                                                |
+|      [Open Source India Summit](https://www.opensourceindia.in/)     |  Sept. 29-30, 2022   |                                                     [Exhibit](https://www.opensourceindia.in/special-offers-packages-for-exhibitors/)                                                    |          N/A          |       --      |                     Bangalore- India
+|      [Microsoft Ignite](https://ignite.microsoft.com/en-US/home)     |  Sept. 29-30, 2022   |                                                     [Sponsor](mailto:sponsor@microsoft.com)                                                    |          N/A          |       --      |                     Bangalore- India
 
 <br>
 
