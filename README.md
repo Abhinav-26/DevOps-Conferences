@@ -20,6 +20,9 @@
 |      [GOPHERCON INDIA](https://gopherconindia.org/)     |  August 28, 2022   |                                                     [Sponsor](mailto:satish@emergingtechs.in)                                                    |          N/A          |       [Sponsorship Prospects](https://gopherconindia.org/gci2022.pdf)    |                     In Person - Pune, Maharashtra - India
 |      [AzConf Dev](https://azconf.dev/)     |  Oct 19-21, 2022   |                                                     -                                                   |          N/A          |           |                     In Person - Chennai, Tamil Nadu - India
 |      [KubeCon CloudNativeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)     |   April 17-21, 2023   |    [CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/)    |    11:59 PM Pacific Standard Time (PST), Friday, 18 November 2022    |    To be declared   |In -person [Venue](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/venue-travel/) |
+|      [GitOpsCon North America EU](https://events.linuxfoundation.org/gitopscon-north-america/)     |   Oct 25, 2022   |    [CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/)    |    Monday, July 25 11:59 PM PST    |    --  |In -person Detroit, Michigan [Venue](https://events.linuxfoundation.org/gitopscon-north-america/attend/venue-travel/ |
+
+
 
 
 <br>
